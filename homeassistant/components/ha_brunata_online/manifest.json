@@ -1,0 +1,19 @@
+{
+  "domain": "ha_brunata_online",
+  "name": "Brunata Online",
+  "codeowners": [
+    "@luttermann"
+  ],
+  "config_flow": true,
+  "dependencies": [],
+  "documentation": "https://www.home-assistant.io/integrations/ha_brunata_online",
+  "homekit": {},
+  "integration_type": "hub",
+  "iot_class": "cloud_polling",
+  "quality_scale": "bronze",
+  "requirements": [
+    "brunata_online==0.1.0"
+  ],
+  "ssdp": [],
+  "zeroconf": []
+}
